@@ -5,7 +5,15 @@ print(type(b))
 
 c='c'
 print(type(c))
-
+import math
+print(math.sqrt(100))
+print(10 + 10)
+print(10 - 10)
+print(10 / 10)
+print(10 // 10)
+print(10 * 10)
+print(10 ** 10)
+print(10 % 10)
 o, p="hi", "g"
 f=False
 print(type(f))
