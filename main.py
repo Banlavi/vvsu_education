@@ -44,3 +44,6 @@ else:
     print('tadjik')
 # pep 8
 '''
+
+dt = {'text': "python", '1': 2}
+print(dt['1'])
