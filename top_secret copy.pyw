@@ -20,4 +20,5 @@ gettime()
 root.mainloop()
 
 # import time as XZ
-# XZ.strftime()
+# XZ.strftime() 
+# test 
